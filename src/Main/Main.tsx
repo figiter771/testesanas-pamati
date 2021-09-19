@@ -10,7 +10,7 @@ export default function Main() {
 
     return (
         <div>
-            <CorrectText>Programmatūras testēšanas pamati</CorrectText>
+            <CorrectText>Programmatūras teštēšanas pamati</CorrectText>
             <BannerImage src={banner} alt="camel" />
 
             <MisalignedBlock>
@@ -24,7 +24,7 @@ export default function Main() {
                 <BlueButton>Uz kursa materiāliem</BlueButton>
             </ButtonBlock>
             <AlignedBlock>
-                <CenteredImage alt="Kvalitates piramida" />
+                <CenteredImage alt="Kvalitātes piramīda" />
                 <CenteredBlock>
                     <FullImage src={img3} alt="..." />
                     <StylizedText>
