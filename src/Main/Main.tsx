@@ -17,14 +17,14 @@ export default function Main() {
 
                 <LeftImage src={img1} alt="..." />
                 <SpacingBlock />
-                <RightImage src={img2} alt="..." />
+                <RightImage src={img4} alt="..." />
 
             </MisalignedBlock>
             <ButtonBlock>
                 <BlueButton>Uz kursa materiāliem</BlueButton>
             </ButtonBlock>
             <AlignedBlock>
-                <CenteredImage alt="programmaturas izstrades veicamie uzdevumi" />
+                <CenteredImage alt="Kvalitates piramida" />
                 <CenteredBlock>
                     <FullImage src={img3} alt="..." />
                     <StylizedText>
